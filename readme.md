@@ -45,3 +45,4 @@ Develop a more robust evaluation framework for a holistic comparison.
 
 # Article Link
 
+https://medium.com/@vasapranavi/benchmarking-large-language-models-locally-an-ollama-deep-dive-26a2330055d5
